@@ -1,0 +1,18 @@
+@font-face {
+  font-family: '';
+  src: url("/fonts/.ttf");
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
+  max-width: 1030px;
+  width: 100%;
+}
