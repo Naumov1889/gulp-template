@@ -1,1 +1,1 @@
-# Frontend project template on gulp
+# Frontend project template on Gulp
